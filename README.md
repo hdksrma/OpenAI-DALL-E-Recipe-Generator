@@ -21,7 +21,7 @@ To use the Automatic Recipe Generator, follow these steps:
   
 ```
   
-## Example Input, Output AND Image
+## Example Input, Output and Image
 
 Here is an example input and output for the Automatic Recipe Generator:
 
