@@ -21,18 +21,18 @@ To use the Automatic Recipe Generator, follow these steps:
   
 ```
   
-### Example Input and Output
+## Example Input, Output AND Image
 
 Here is an example input and output for the Automatic Recipe Generator:
 
-#### Input
+### Input
 
 ``` 
 "Chicken, broccoli, rice" 
 
 ```
 
-#### Output
+### Output
 
 ```
 Title: Chicken and Broccoli Rice Bowl
